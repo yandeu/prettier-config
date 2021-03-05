@@ -12,7 +12,8 @@ npm i -D @yandeu/prettier-config
 ```json
 // package.json
 "scripts": {
-  "format": "prettier --write src/**"
+  "format": "prettier --write src/**",
+  "format:check": "prettier --check src/**"
 }
 ```
 
