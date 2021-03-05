@@ -1,0 +1,9 @@
+{
+  "name": "@yandeu/prettier-config",
+  "version": "0.0.1",
+  "description": "⚙️ prettier config",
+  "main": "index.cjs",
+  "peerDependencies": {
+    "prettier": "^2.2.0"
+  }
+}
