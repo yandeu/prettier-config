@@ -27,6 +27,13 @@ module.exports = {
 }
 ```
 
+## GitHub Actions
+
+```yml
+- name: Run Prettier
+  run: npm run format
+```
+
 ## Integrating with ESLint
 
 Install [@yandeu/eslint-config](https://github.com/yandeu/eslint-config).
